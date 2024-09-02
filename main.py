@@ -1,7 +1,7 @@
-import json
 """
     Solved Recipe adjustment
 """
+import json
 
 
 def load_recipe(recipe):
